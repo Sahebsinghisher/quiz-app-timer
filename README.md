@@ -20,4 +20,22 @@ How to Run:
 
 1. Clone this repository:
    bash
-   git clone [invalid URL removed]
+   $git clone https://github.com/Sahebsinghisher/quiz-app-timer.git
+
+2. Open the index.html file in a web browser.
+   
+Future Enhancements:
+- Add more questions and categories.
+- Implement different difficulty levels.
+- Incorporate user profiles and score tracking.
+- Add visual feedback (e.g., animations, progress bars).
+- Improve the user interface and user experience.
+
+Contributing:
+- Contributions are welcome! Please feel free to fork this repository and submit a pull request with your improvements.
+
+Contact:
+
+Saheb Singh Isher - Sahebsinghisher1@gmail.com
+
+Thankyou :)
